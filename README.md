@@ -21,7 +21,6 @@ impulsadores del cambio digital
 \setlength{\parindent}{0pt}
 
 \noindent\textbf{Resumen}\\
-https://github.com/castellanosv2/ENSAYO-4.git\\
 
 \textbf{Palabras Clave}\\
 cambio, avances, automatización, competencia
